@@ -1,0 +1,7 @@
+modelo,clase,precision,recall,f1_score,soporte,accuracy_global
+Decision_Tree,HOME_WIN,0.503,0.9699,0.6624,4648,0.5057
+Decision_Tree,DRAW,0.9835,0.0552,0.1045,2156,0.5057
+Decision_Tree,AWAY_WIN,0.4217,0.0624,0.1087,2676,0.5057
+Gaussian_Naive_Bayes,HOME_WIN,0.691,0.0346,0.066,4648,0.2599
+Gaussian_Naive_Bayes,DRAW,0.2399,0.9253,0.381,2156,0.2599
+Gaussian_Naive_Bayes,AWAY_WIN,0.3312,0.1151,0.1708,2676,0.2599

@@ -1,0 +1,87 @@
+match_id,date,home_team,away_team,home_score,away_score,total_goals,goal_difference,match_outcome,tournament,city,country,neutral,has_scorer_details,total_recorded_goals,home_recorded_goals,away_recorded_goals,penalty_goals,own_goals,goals_first_half,goals_second_half,goals_extra_time,unique_scorers,has_penalty_shootout,shootout_winner,shootout_first_shooter,is_outlier_mild,is_outlier_extreme
+M_000122,1899-02-18,England,Northern Ireland,13,2,15,11,HOME_WIN,British Home Championship,Sunderland,England,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_000233,1908-07-12,Sweden,Norway,11,3,14,8,HOME_WIN,Friendly,Gothenburg,Sweden,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_000486,1917-05-07,Japan,Philippines,2,15,17,-13,AWAY_WIN,Friendly,Tokyo,Japan,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_000488,1917-05-10,Japan,Philippines,2,15,17,-13,AWAY_WIN,Far Eastern Championship Games,Tokyo,Japan,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_001145,1927-06-12,Hungary,France,13,1,14,12,HOME_WIN,Friendly,Budapest,Hungary,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_001252,1928-06-09,Italy,Egypt,11,3,14,8,HOME_WIN,Olympic Games,Amsterdam,Netherlands,True,True,14,11,3,0,0,8,6,0,6,False,None,Not_Recorded,True,True
+M_001659,1932-08-25,Uganda,Kenya,13,1,14,12,HOME_WIN,Friendly,Kampala,Uganda,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_002152,1937-05-17,Uganda,Kenya,9,5,14,4,HOME_WIN,Friendly,Kampala,Uganda,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_002860,1946-12-15,Curaçao,Puerto Rico,14,0,14,14,HOME_WIN,Central American and Caribbean Games,Barranquilla,Colombia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_003315,1950-04-14,Mauritius,Réunion,15,2,17,13,HOME_WIN,Friendly,Antananarivo,Madagascar,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_005525,1962-08-26,Malaysia,Philippines,15,1,16,14,HOME_WIN,Asian Games,Jakarta,Indonesia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_005868,1963-09-06,Solomon Islands,Tahiti,0,18,18,-18,AWAY_WIN,South Pacific Games,Suva,Fiji,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_005918,1963-11-11,North Korea,Somalia,14,0,14,14,HOME_WIN,Friendly,Jakarta,Indonesia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_005923,1963-11-15,Egypt,Laos,15,0,15,15,HOME_WIN,Friendly,Jakarta,Indonesia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_006503,1965-12-11,Kenya,Ghana,2,13,15,-11,AWAY_WIN,Friendly,Nairobi,Kenya,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_006548,1966-04-03,Libya,Oman,21,0,21,21,HOME_WIN,Arab Cup,Baghdad,Iraq,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_006645,1966-06-28,China PR,Tanzania,10,4,14,6,HOME_WIN,Friendly,Beijing,China PR,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_006816,1966-11-30,North Korea,Yemen,14,0,14,14,HOME_WIN,GaNEFo,Phnom Penh,Cambodia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_007093,1967-08-23,Denmark,Iceland,14,2,16,12,HOME_WIN,Friendly,Copenhagen,Denmark,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_008511,1971-09-11,Cook Islands,Papua New Guinea,1,16,17,-15,AWAY_WIN,South Pacific Games,Papeete,French Polynesia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_008516,1971-09-13,Tahiti,Cook Islands,30,0,30,30,HOME_WIN,South Pacific Games,Papeete,French Polynesia,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_008517,1971-09-15,Cook Islands,Fiji,1,15,16,-14,AWAY_WIN,South Pacific Games,Papeete,French Polynesia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_009416,1973-08-17,Algeria,Yemen,15,1,16,14,HOME_WIN,Palestine Cup,Benghazi,Libya,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_011876,1979-08-30,Fiji,Kiribati,24,0,24,24,HOME_WIN,South Pacific Games,Nausori,Fiji,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_011879,1979-08-30,Tahiti,Tuvalu,18,0,18,18,HOME_WIN,South Pacific Games,Suva,Fiji,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_012809,1981-07-07,Vanuatu,Western Samoa,13,1,14,12,HOME_WIN,South Pacific Mini Games,Honiara,Solomon Islands,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_013766,1983-08-20,Niue,Tahiti,0,14,14,-14,AWAY_WIN,South Pacific Games,Apia,Western Samoa,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_013772,1983-08-22,Niue,Papua New Guinea,0,19,19,-19,AWAY_WIN,South Pacific Games,Apia,Western Samoa,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_015885,1987-12-15,American Samoa,Papua New Guinea,0,20,20,-20,AWAY_WIN,South Pacific Games,Nouméa,New Caledonia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_017901,1991-09-09,Guam,Tahiti,0,15,15,-15,AWAY_WIN,South Pacific Games,Lae,Papua New Guinea,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_017916,1991-09-12,Fiji,Guam,14,1,15,13,HOME_WIN,South Pacific Games,Lae,Papua New Guinea,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_017921,1991-09-15,Guam,New Caledonia,0,18,18,-18,AWAY_WIN,South Pacific Games,Lae,Papua New Guinea,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_019565,1994-03-19,Jersey,Alderney,18,0,18,18,HOME_WIN,Muratti Vase,Jersey,Jersey,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_020504,1995-08-21,Cook Islands,Solomon Islands,0,16,16,-16,AWAY_WIN,South Pacific Games,Papeete,French Polynesia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_021488,1996-11-17,Honduras,Saint Vincent and the Grenadines,11,3,14,8,HOME_WIN,FIFA World Cup qualification,San Pedro Sula,Honduras,False,True,14,11,3,1,0,6,8,0,11,False,None,Not_Recorded,True,True
+M_021921,1997-05-13,Kazakhstan,Guam,20,1,21,19,HOME_WIN,East Asian Games,Busan,South Korea,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_021926,1997-05-17,Mongolia,Kazakhstan,3,11,14,-8,AWAY_WIN,East Asian Games,Busan,South Korea,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_021959,1997-06-02,Maldives,Iran,0,17,17,-17,AWAY_WIN,FIFA World Cup qualification,Damascus,Syria,True,True,17,0,17,0,0,6,11,0,7,False,None,Not_Recorded,True,True
+M_022672,1998-04-15,Grenada,Anguilla,14,1,15,13,HOME_WIN,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_022678,1998-04-19,Guyana,Anguilla,14,0,14,14,HOME_WIN,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_022903,1998-08-01,Palau,Guam,2,15,17,-13,AWAY_WIN,Friendly,Koror,Palau,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_023057,1998-09-28,Australia,Cook Islands,16,0,16,16,HOME_WIN,Oceania Nations Cup,Brisbane,Australia,False,True,16,16,0,1,0,8,8,0,7,False,None,Not_Recorded,True,True
+M_023208,1998-12-05,Mongolia,Uzbekistan,0,15,15,-15,AWAY_WIN,Asian Games,Chiang Mai,Thailand,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_024059,2000-01-26,China PR,Guam,19,0,19,19,HOME_WIN,AFC Asian Cup qualification,Hanoi,Vietnam,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_024146,2000-02-14,Kuwait,Bhutan,20,0,20,20,HOME_WIN,AFC Asian Cup qualification,Kuwait City,Kuwait,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_024616,2000-06-19,Australia,Cook Islands,17,0,17,17,HOME_WIN,Oceania Nations Cup,Papeete,French Polynesia,True,True,17,17,0,1,0,7,10,0,8,False,None,Not_Recorded,True,True
+M_025048,2000-11-24,Iran,Guam,19,0,19,19,HOME_WIN,FIFA World Cup qualification,Tabriz,Iran,False,True,19,19,0,1,0,8,11,0,6,False,None,Not_Recorded,True,True
+M_025051,2000-11-26,Tajikistan,Guam,16,0,16,16,HOME_WIN,FIFA World Cup qualification,Tabriz,Iran,True,True,16,16,0,1,0,7,9,0,9,False,None,Not_Recorded,True,True
+M_025386,2001-04-09,Australia,Tonga,22,0,22,22,HOME_WIN,FIFA World Cup qualification,Coffs Harbour,Australia,False,True,22,22,0,0,0,10,12,0,9,False,None,Not_Recorded,True,True
+M_025389,2001-04-11,Australia,American Samoa,31,0,31,31,HOME_WIN,FIFA World Cup qualification,Coffs Harbour,Australia,False,True,31,31,0,0,0,16,15,0,7,False,None,Not_Recorded,True,True
+M_025402,2001-04-14,Saint Lucia,United States Virgin Islands,14,1,15,13,HOME_WIN,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_026846,2002-12-23,Indonesia,Philippines,13,1,14,12,HOME_WIN,AFF Championship,Jakarta,Indonesia,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027295,2003-06-29,Gibraltar,Sark,19,0,19,19,HOME_WIN,Island Games,Saint Martin,Guernsey,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027309,2003-06-30,Sark,Isle of Wight,0,20,20,-20,AWAY_WIN,Island Games,Saint Martin,Guernsey,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027310,2003-06-30,Tahiti,Micronesia,17,0,17,17,HOME_WIN,South Pacific Games,Suva,Fiji,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027313,2003-07-01,Greenland,Sark,16,0,16,16,HOME_WIN,Island Games,Saint Martin,Guernsey,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027316,2003-07-01,Micronesia,New Caledonia,0,18,18,-18,AWAY_WIN,South Pacific Games,Suva,Fiji,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027326,2003-07-03,Frøya,Sark,15,0,15,15,HOME_WIN,Island Games,Alderney,Guernsey,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027372,2003-07-07,Kiribati,Vanuatu,0,18,18,-18,AWAY_WIN,South Pacific Games,Lautoka,Fiji,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_027553,2003-09-29,South Korea,Nepal,16,0,16,16,HOME_WIN,AFC Asian Cup qualification,Incheon,South Korea,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_029004,2005-03-07,Guam,Hong Kong,0,15,15,-15,AWAY_WIN,EAFF Championship,Taipei,Taiwan,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_029009,2005-03-11,Guam,North Korea,0,21,21,-21,AWAY_WIN,EAFF Championship,Taipei,Taiwan,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_029117,2005-05-03,Occitania,Chechnya,14,0,14,14,HOME_WIN,Friendly,Occitania,France,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_029773,2006-02-18,Monaco,Chechnya,13,1,14,12,HOME_WIN,Friendly,Cap-d'Ail,France,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_030478,2006-11-23,Sápmi,Monaco,14,0,14,14,HOME_WIN,Viva World Cup,Hyères,France,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_030482,2006-11-24,Sápmi,Monaco,21,1,22,20,HOME_WIN,Viva World Cup,Hyères,France,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_030952,2007-06-21,Hong Kong,Guam,15,1,16,14,HOME_WIN,EAFF Championship,Macau,Macau,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_031144,2007-08-25,Fiji,Tuvalu,16,0,16,16,HOME_WIN,South Pacific Games,Apia,Samoa,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_031156,2007-08-29,American Samoa,Vanuatu,0,15,15,-15,AWAY_WIN,South Pacific Games,Apia,Samoa,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_034228,2010-10-14,Dominican Republic,British Virgin Islands,17,0,17,17,HOME_WIN,CFU Caribbean Cup qualification,San Cristóbal,Dominican Republic,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_035106,2011-09-03,Kiribati,Papua New Guinea,1,17,18,-16,AWAY_WIN,Pacific Games,Boulari,New Caledonia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_035133,2011-09-05,Kiribati,Tahiti,1,17,18,-16,AWAY_WIN,Pacific Games,Boulari,New Caledonia,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_035535,2012-01-14,Gozo,Raetia,17,1,18,16,HOME_WIN,Friendly,Xewkija,Malta,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_035840,2012-06-04,Northern Cyprus,Darfur,15,0,15,15,HOME_WIN,Viva World Cup,Erbil,Iraq,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_035846,2012-06-05,Darfur,Provence,0,18,18,-18,AWAY_WIN,Viva World Cup,Erbil,Iraq,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_036072,2012-09-05,Martinique,British Virgin Islands,16,0,16,16,HOME_WIN,CFU Caribbean Cup qualification,Le Lamentin,Martinique,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_036222,2012-09-28,Saint Pierre and Miquelon,New Caledonia,1,16,17,-15,AWAY_WIN,Coupe de l'Outre-Mer,Clairefontaine-en-Yvelines,France,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_037715,2014-06-01,Darfur,Padania,0,20,20,-20,AWAY_WIN,CONIFA World Football Cup,Östersund,Sweden,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_037729,2014-06-02,Darfur,South Ossetia,0,19,19,-19,AWAY_WIN,CONIFA World Football Cup,Östersund,Sweden,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_038939,2015-09-03,Qatar,Bhutan,15,0,15,15,HOME_WIN,FIFA World Cup qualification,Doha,Qatar,False,True,15,15,0,0,0,8,7,0,8,False,None,Not_Recorded,True,True
+M_040489,2017-03-28,Oman,Bhutan,14,0,14,14,HOME_WIN,AFC Asian Cup qualification,Muscat,Oman,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_042692,2019-07-15,Tonga,Vanuatu,0,14,14,-14,AWAY_WIN,Pacific Games,Apia,Samoa,True,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_042949,2019-10-10,Iran,Cambodia,14,0,14,14,HOME_WIN,FIFA World Cup qualification,Tehran,Iran,False,True,14,14,0,0,1,7,7,0,8,False,None,Not_Recorded,True,True
+M_043098,2019-11-10,Trinidad and Tobago,Anguilla,15,0,15,15,HOME_WIN,Friendly,Couva,Trinidad and Tobago,False,False,0,0,0,0,0,0,0,0,0,False,None,Not_Recorded,True,True
+M_043816,2021-03-30,Japan,Mongolia,14,0,14,14,HOME_WIN,FIFA World Cup qualification,Chiba,Japan,False,True,14,14,0,0,1,5,9,0,9,False,None,Not_Recorded,True,True
+M_046664,2023-11-18,France,Gibraltar,14,0,14,14,HOME_WIN,UEFA Euro qualification,Nice,France,False,True,14,14,0,1,1,7,7,0,10,False,None,Not_Recorded,True,True

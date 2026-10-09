@@ -1,0 +1,7 @@
+modelo,clase_real,pred_HOME_WIN,pred_DRAW,pred_AWAY_WIN,total_real
+Decision_Tree,HOME_WIN,4508,2,138,4648
+Decision_Tree,DRAW,1946,119,91,2156
+Decision_Tree,AWAY_WIN,2509,0,167,2676
+Gaussian_Naive_Bayes,HOME_WIN,161,4020,467,4648
+Gaussian_Naive_Bayes,DRAW,6,1995,155,2156
+Gaussian_Naive_Bayes,AWAY_WIN,66,2302,308,2676
